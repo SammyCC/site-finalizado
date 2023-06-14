@@ -1,0 +1,80 @@
+.cabecalho {
+    background-color: #F5F5F5;
+}
+#barra {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 253, 251);
+    width: 1260px;
+    height: 40px;
+    text-align: right;
+}
+
+.cabecalho-haltere{
+    width: 130px;
+    height: 80px;
+    vertical-align: text-top;
+    padding-top: 18px;
+    padding-left: 1140px;
+    position: absolute;
+}
+.cabecalho-facebook{
+    width: 40px;
+    height: 26px;
+    vertical-align: text-top;
+    padding-top: 83px;
+    padding-left: 10px;
+    position: absolute;
+}
+.cabecalho-instagram{
+    width: 63px;
+    height: 43px;
+    vertical-align: text-top;
+    padding-top: 75px;
+    padding-left: 65px;
+    position: absolute;
+}
+.cabecalho-youtube{
+    width: 100px;
+    height: 70px;
+    vertical-align: text-top;
+    padding-top: 62px;
+    padding-left: 110px;
+    position: absolute;
+}
+.cabecalho-concentrado{
+    width: 180px;
+    height: 160px;
+    vertical-align: text-top;
+    padding-top: 220px;
+    padding-left: 70px;
+    position: absolute;
+}
+.cabecalho-isolado{
+    width: 180px;
+    height: 150px;
+    vertical-align: text-top;
+    padding-top: 228px;
+    padding-left: 250px;
+    position: absolute;
+}
+.cabecalho-puro{
+    width: 190px;
+    height: 160px;
+    vertical-align: text-top;
+    padding-top: 224px;
+    padding-left: 420px;
+    position: absolute;
+}
+.cabecalho-shake{
+    width: 190px;
+    height: 185px;
+    vertical-align: text-top;
+    padding-top: 218px;
+    padding-left: 590px;
+    position: absolute;
+}
+
+.site-lista-item { display: flex;
+text-align: center;}
+.site-imagem{width: 50%;}
+
